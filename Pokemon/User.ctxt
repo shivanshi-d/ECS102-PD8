@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\n\ A\ User\ (trainer)\ has\ a\ name\ and\ one\ active\ Pokemon.\n\ \n\ @author\ Shivi\n\ @version\ 10/6/2026\n
+comment1.params=name
+comment1.target=User(java.lang.String)
+comment2.params=p
+comment2.target=void\ setPokemon(Pokemon)
+comment3.params=
+comment3.target=Pokemon\ getPokemon()
+comment4.params=newPokemon
+comment4.target=void\ switchPokemon(Pokemon)
+comment5.params=
+comment5.target=void\ heal()
+comment6.params=name\ enemy
+comment6.target=void\ attack(java.lang.String,\ User)
+comment7.params=
+comment7.target=boolean\ isEndGame()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+comment9.params=
+comment9.target=void\ act()
+comment9.text=\n\ Act\ -\ do\ whatever\ the\ User\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=10

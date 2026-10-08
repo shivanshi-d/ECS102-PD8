@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Computer
+comment0.text=\n\ A\ Computer\ is\ a\ User\ that\ can\ switch\ to\ a\ randomly\ chosen\ Pokemon.\n\ \n\ @author\ Shivi\n\ @version\ 10/6/2026\n
+comment1.params=name
+comment1.target=Computer(java.lang.String)
+comment2.params=
+comment2.target=void\ switchPokemon()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Computer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4
